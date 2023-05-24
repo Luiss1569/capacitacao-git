@@ -43,6 +43,6 @@ As informações contidas neste site foram baseadas na fonte abaixo:
 
 ## Autor ✍️
 
-Este projeto foi desenvolvido por [seu nome] como exercício de prática do Gitflow.
+Este projeto foi desenvolvido por Luis Ricardo como exercício de prática do Gitflow.
 
 Sinta-se à vontade para explorar, contribuir e fornecer feedback sobre o projeto. Aproveite!
